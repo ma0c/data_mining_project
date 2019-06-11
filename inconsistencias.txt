@@ -1,0 +1,5 @@
+Columnas repetidas
+genes_transposed.loc["TCGA-YL-A8SH-01","causeXofXdeath"] ¿Cuál valor?
+
+Columnas repetidas mas de un par de veces
+genes_transposed["formXcompletionXdate"]
